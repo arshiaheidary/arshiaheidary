@@ -6,10 +6,19 @@
 <h3> My Expertise :<h3>
 <img src='https://skillicons.dev/icons?i=vscode,py' alt = "languages" >
 
+# 💫 About Me:
+hi ✋<br> -  i'm Arshia 👱‍♂️<br> -  I’m currently learning programmer 💻
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshia.heidary2008) 
+
+# 💻 Tech Stack:
+<img src='https://skillicons.dev/icons?i=vscode,py' alt = "languages" >
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arshiaheidary&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=arshiaheidary&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiaheidary&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=arshiaheidary&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arshiaheidary&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arshiaheidary&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
