@@ -1,4 +1,12 @@
 
+
+<div>
+  <h1  align='center'> Arshia Heidary </h1>
+  <h2>🌱 I’m currently learning programming <h2>
+  <div>
+<h3> My Expertise :<h3>
+<img src='https://skillicons.dev/icons?i=vscode,py' alt = "languages" > 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arshia.heidary2008) 
 # 📊 GitHub Stats:
